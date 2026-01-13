@@ -1,10 +1,10 @@
 ## UAS_Notes
 
 ## Identitas 
-## Nama   : Muhamad Nabil Satriya Suntara
-## Nim    : 312410365
-## Kelas  : TI.24.A4
-## MATKUL : PEMROGRAMAN MOBILE 1
+# Nama   : Muhamad Nabil Satriya Suntara
+# Nim    : 312410365
+# Kelas  : TI.24.A4
+# MATKUL : PEMROGRAMAN MOBILE 1
 
 ---
 
