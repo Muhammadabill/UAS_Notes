@@ -35,7 +35,7 @@
 ## UX (USER EXPERIENCE)
 
 Aplikasi Sudah Jadi
-
+https://youtube.com/shorts/pNSihhcgb-g?si=hnQvvbtRcamvB7Uk
 
 Aplikasi Implementasi figma
 https://youtu.be/GfXcTwJE3gE?si=22e8JT_XsnjJvB79
